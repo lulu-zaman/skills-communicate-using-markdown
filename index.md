@@ -17,10 +17,15 @@
       Electronics engg. student at GPTC Perinthalmanna
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-![1711909478125](https://github.com/lulu-zaman/skills-communicate-using-markdown/assets/165302109/d9ac91ed-caf1-44e0-8bb3-1aa762c12313)
 
 
 # H1
 ## H2
 ###### H6
 
+
+```python
+
+print("HELLO WORD")
+
+```
