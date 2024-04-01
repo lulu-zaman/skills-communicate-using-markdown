@@ -29,3 +29,11 @@
 print("HELLO WORD")
 
 ```
+
+
+
+```
+   - [ ] Turn on GitHub Pages
+   - [ ] Outline your portfolio
+   - [ ] Introduce your to the world
+```
